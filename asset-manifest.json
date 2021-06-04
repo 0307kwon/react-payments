@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.86797e4f.chunk.css",
-    "main.js": "/react-payments/static/js/main.e9ffe6d7.chunk.js",
-    "main.js.map": "/react-payments/static/js/main.e9ffe6d7.chunk.js.map",
+    "main.css": "/react-payments/static/css/main.b17f9191.chunk.css",
+    "main.js": "/react-payments/static/js/main.59537fd4.chunk.js",
+    "main.js.map": "/react-payments/static/js/main.59537fd4.chunk.js.map",
     "runtime-main.js": "/react-payments/static/js/runtime-main.88f01844.js",
     "runtime-main.js.map": "/react-payments/static/js/runtime-main.88f01844.js.map",
-    "static/js/2.dad7fc6f.chunk.js": "/react-payments/static/js/2.dad7fc6f.chunk.js",
-    "static/js/2.dad7fc6f.chunk.js.map": "/react-payments/static/js/2.dad7fc6f.chunk.js.map",
+    "static/js/2.179524d8.chunk.js": "/react-payments/static/js/2.179524d8.chunk.js",
+    "static/js/2.179524d8.chunk.js.map": "/react-payments/static/js/2.179524d8.chunk.js.map",
     "index.html": "/react-payments/index.html",
-    "static/css/main.86797e4f.chunk.css.map": "/react-payments/static/css/main.86797e4f.chunk.css.map",
-    "static/js/2.dad7fc6f.chunk.js.LICENSE.txt": "/react-payments/static/js/2.dad7fc6f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/react-payments/static/media/secure-code.5c8715d7.png"
+    "static/css/main.b17f9191.chunk.css.map": "/react-payments/static/css/main.b17f9191.chunk.css.map",
+    "static/js/2.179524d8.chunk.js.LICENSE.txt": "/react-payments/static/js/2.179524d8.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-payments/static/media/secure-code.5c8715d7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.88f01844.js",
-    "static/js/2.dad7fc6f.chunk.js",
-    "static/css/main.86797e4f.chunk.css",
-    "static/js/main.e9ffe6d7.chunk.js"
+    "static/js/2.179524d8.chunk.js",
+    "static/css/main.b17f9191.chunk.css",
+    "static/js/main.59537fd4.chunk.js"
   ]
 }
